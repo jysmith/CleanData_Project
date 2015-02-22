@@ -1,5 +1,4 @@
 # Study Design
-                                                                                X
 No additional data were collected beyond the original study.
 
 The mean and standard deviation for each accelerometer and gyroscope were 
@@ -10,7 +9,8 @@ subject performing each activity.
 # Code Book
 The variables contained in the output data frame by column number are described
 below. The units are either standard gravity units (abbreviated g) or 
-radians/sec (abbreviated rad/s).
+radians/sec (abbreviated rad/s). The variable names were chosen because they 
+are descriptive and maintain consistency with the original data set.
 
 |    | Variable                  | Units | Description                                                        |
 |---:|:--------------------------|:-----:|:-------------------------------------------------------------------|

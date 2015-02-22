@@ -3,7 +3,6 @@ Coursera Course Project for Data Science -- Getting and Cleaning Data
 
 
 ## Introduction
-                                                                                X
 This assignment utilizes data collected from the accelerometers and gyroscopes
 from the Samsung Galaxy S smartphone. The data are available at:
 [https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
@@ -43,7 +42,7 @@ into five sections that correspond to sections of the assignment.
 1. Search the variable names for mean() and std() and store the array index of all matches.
 These represent the mean and standard deviation, respectively, for the key hardware
 measurements. The additional vectors containing Mean, such as gravityMean and tBodyAccMean,
-are notincluded since they were obtained by averaging in a signal window sample and 
+are not included since they were obtained by averaging in a signal window sample and 
 represent a different sort of average.
 2. Extract data and variable names corresponding to the matching index values
 
